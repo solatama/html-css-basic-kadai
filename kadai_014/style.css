@@ -1,3 +1,11 @@
+html {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
 body {
     font-family:"Arial", "Meiryo", sans-serif ;
     font-size: 20px;
@@ -5,12 +13,11 @@ body {
 }
 
 .google-fonts {
-  font-family: "Noto Sans JP", sans-serif;
-  font-size: 40em;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 #basic > p {
-    font-weight: 900;
+    font-weight: bold;
 }
 
 .decoration {
