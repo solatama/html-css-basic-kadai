@@ -1,0 +1,27 @@
+body {
+    font-family:"Arial", "Meiryo", sans-serif ;
+    font-size: 20px;
+    text-align: center;
+}
+
+.google-fonts {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 40em;
+}
+
+#basic > p {
+    font-weight: 900;
+}
+
+.decoration {
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.font-skyblue {
+    color: skyblue;
+}
+.font-pink {
+    color: rgb(255, 192, 203);
+}
